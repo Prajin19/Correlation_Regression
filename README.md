@@ -60,7 +60,8 @@ plt.legend(['Regression Line','Data points'])
 
 # Output
 
-![Screenshot 2024-04-11 112027](https://github.com/Prajin19/Correlation_Regression/assets/144979377/afb9be06-bfe9-44d2-8b35-92ab9c3966c8)
+![Screenshot 2024-04-11 114739](https://github.com/Prajin19/Correlation_Regression/assets/144979377/162aa96c-c81b-4d88-8224-74aa73dac262)
+
 
 # Result
 The given data is checked and analysed using coeffificient of correlation and regression line successfully.
